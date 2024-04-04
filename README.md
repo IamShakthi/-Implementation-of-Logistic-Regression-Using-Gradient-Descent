@@ -17,8 +17,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by : YOHESH KUMAR R.M
-RegisterNumber:  212222240118
+Developed by : YUVASAKTHI N.C
+RegisterNumber:  212222240120
 */
 ```
 ```
